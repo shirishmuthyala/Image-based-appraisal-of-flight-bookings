@@ -5,7 +5,6 @@ package customer;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 import models.Customer;
 import models.Flight;
 import java.io.IOException;
